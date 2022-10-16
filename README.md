@@ -23,3 +23,5 @@
 
 - ##### 打开开发者工具栏，登录时光相册官网。
 ![image](https://github.com/ZhangRuiMingZRM/ever_photo/blob/main/ever.png)
+
+6788888
